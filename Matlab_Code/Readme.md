@@ -30,7 +30,8 @@
 3. Some of the files or functions are adopted from the iPUF package. 
 
    The iPUF paper is,
-    P. H. Nguyen, D. P. Sahoo, C. Jin, K. Mahmood, U. R¨uhrmair, and M. van Dijk, “The interpose PUF: Secure PUF design against state-of-the-art machine learning attacks,” IACR Transactions on CHES, vol.2019, no. 4, pp. 243–290, Aug. 2019.
+
+   P. H. Nguyen, D. P. Sahoo, C. Jin, K. Mahmood, U. R&#252;hrmair, and M. van Dijk, “The interpose PUF: Secure PUF design against state-of-the-art machine learning attacks,” IACR Transactions on CHES, vol.2019, no. 4, pp. 243–290, Aug. 2019.
 
    
 
