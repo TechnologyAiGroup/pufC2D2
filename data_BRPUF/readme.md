@@ -1,0 +1,3 @@
+Here we provide sample data from hardware experiments. The CRPs are collected for a 64-stage bistable ring (BR)-PUF, implemented on a Xilinx Zynq-7000 FPGA (28nm technology node).
+
+The sample contains 100 CRPs for training, and 1000 CRPs for test. The challenges and responses are provided separately, hence altogether there are four files. For the challenge .mat file, each row in the matrix is a 64-bit challenge, who 0/1 response is the corresponding response .mat file. You could play around with your own training-test dataset partition, but the challenge-response ordering must be maintained for each pair. 
