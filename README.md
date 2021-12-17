@@ -11,5 +11,5 @@ For now it contains the following items:
 
 More will be added and available.
 
-Questions regarding codes, data, algorithms, please send emails to (to remain anonymous during paper review)
+Questions regarding codes, data, algorithms, please send emails to (anonymous during paper review)
 
