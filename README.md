@@ -1,5 +1,5 @@
 # The C2D2 Project
-This is the website for hosting code and data in the submitted DAC'22 paper, "Modeling Challenge Covariances and Design Dependency for Efficient Attacks on Strong PUFs".
+This is the website for hosting code and data in the submitted ITC'22 paper, "Modeling Challenge Covariances and Design Dependency for Efficient Attacks on Strong PUFs".
 
 Authors: to remain anonymous during paper review.
 
