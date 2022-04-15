@@ -7,6 +7,7 @@
       Most of the codes are kept unchanged.
 
       The part we changed is denoted by "####################". For example, in ecp_trn_xor_7.py , 
+      
 
       #################################################################################
          y1 = tf.placeholder(tf.float32, shape = [None, 129,129,129,129, 129,129])
