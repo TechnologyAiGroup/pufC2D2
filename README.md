@@ -1,8 +1,6 @@
 # The C2D2 Project
 This is the website for hosting code and data in the submitted paper, "Modeling Challenge Covariances and Design Dependency for Efficient Attacks on Strong PUFs".
 
-Authors: to remain anonymous during paper review.
-
 For now it contains the following items:
 
 - MATLAB codes for simulating and attacking XOR Arbiter PUFs, using PC-enhanced LAD Model I and II;
