@@ -1,5 +1,5 @@
-# The C2D2 Project
-This is the website for hosting code and data in the submitted paper, "Modeling Challenge Covariances and Design Dependency for Efficient Attacks on Strong PUFs".
+# The C2D2 Project (ACM TODAES'24)
+This is the website for hosting code and data in the published paper, "Modeling Challenge Covariances and Design Dependency for Efficient Attacks on Strong PUFs".
 
 For now it contains the following items:
 
